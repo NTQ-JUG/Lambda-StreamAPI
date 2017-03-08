@@ -6,7 +6,7 @@
 * Functional interfaces?
 * Why do we need lambda expressions?
 
-## Stream API
+## [Stream API](https://github.com/studyindepth/fpjava/blob/master/notes/streams.md)
 * What is a Stream?
 * How streams change our way of programing and make our code better?
     * common operations on collections: using streams vs for-loop
